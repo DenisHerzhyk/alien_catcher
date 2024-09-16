@@ -40,4 +40,4 @@ To run the game, follow these steps:
 - **Diamonds**: Clicking on diamonds freezes time for a 3 seconds.
 
 # Video Demo
-You can check short video explanation how game works on my YouTube:  url
+You can check short video explanation how game works on my YouTube: https://youtu.be/r_iPUJPi-2s
