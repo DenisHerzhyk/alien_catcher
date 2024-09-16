@@ -38,3 +38,6 @@ To run the game, follow these steps:
 - **Mouse Click**: Catch aliens by clicking on them.
 - **Bombs**: Avoid clicking on bombs or you will lose 10 points.
 - **Diamonds**: Clicking on diamonds freezes time for a 3 seconds.
+
+# Video Demo
+You can check short video explanation how game works on my YouTube:  url
